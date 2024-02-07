@@ -1,0 +1,16 @@
+body{
+    background-image: url("back.jpg");
+    background-size: 100;
+}
+#cim{
+    background-image: url("panorama.jpg");
+    background-repeat: no-repeat;
+    background-size: 100;
+    background-position: center;
+}
+.magas{
+    height: 190px
+}
+p{
+    vertical-align: center;
+}
